@@ -1,1 +1,0 @@
-Database của e trên docker nên thôi e không export nữa thầy nhé.
